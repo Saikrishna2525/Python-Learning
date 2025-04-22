@@ -1,9 +1,9 @@
 number = int(input("Please Enter a number: "))
 reverse_numbers = []
+numbers = []
 for i in str(number):
-    reverse_numbers.append(i)
-numbers = reverse_numbers.copy()
-reverse_numbers.reverse()
+    reverse_numbers.insert(0, i)
+    numbers.append(i)
 if numbers == reverse_numbers:
     print("Your number is Palindrome.")
 else:
