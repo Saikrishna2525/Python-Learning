@@ -1,4 +1,4 @@
-list = [1, 2, 3, 4, 5]
+list = [1, 2, 3, 4, 5,2,6]
 Sums = []
 for i in range(len(list)):
     if list[i] == 5:

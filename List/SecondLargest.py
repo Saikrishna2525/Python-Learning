@@ -1,4 +1,4 @@
-list = [9, 65, 74, 10, 6, 4]
+list = [9, 65, 74, 10, 6, 4,100,120]
 temp_list = list.copy()
 maximum = list[0]
 for i in range(len(list)-1):
