@@ -1,0 +1,53 @@
+{
+    "Alice, 12, A": {
+        "Name": "Alice",
+        "Age": 12,
+        "Grade": "A",
+        "RollNumber": 101,
+        "Standard": "7th",
+        "Rank": 1,
+        "Achievement": "Science Fair Winner",
+        "Gmail": "alice123@gmail.com"
+    },
+    "Bob, 11, B": {
+        "Name": "Bob",
+        "Age": 11,
+        "Grade": "B",
+        "RollNumber": 102,
+        "Standard": "6th",
+        "Rank": 3,
+        "Achievement": "None",
+        "Gmail": "bob456@gmail.com"
+    },
+    "Charlie, 13, A": {
+        "Name": "Charlie",
+        "Age": 13,
+        "Grade": "A",
+        "RollNumber": 103,
+        "Standard": "8th",
+        "Rank": 2,
+        "Achievement": "Math Olympiad Bronze",
+        "Gmail": "charlie789@gmail.com"
+    },
+    "David, 10, C": {
+        "Name": "David",
+        "Age": 10,
+        "Grade": "C",
+        "RollNumber": 104,
+        "Standard": "5th",
+        "Rank": 4,
+        "Achievement": "None",
+        "Gmail": "david101@gmail.com"
+    },
+    "Eve, 9, B": {
+        "Name": "Eve",
+        "Age": 9,
+        "Grade": "B",
+        "RollNumber": 105,
+        "Standard": "4th",
+        "Rank": 5,
+        "Achievement": "None",
+        "Gmail": "eve202@gmail.com"
+    }
+}
+    
