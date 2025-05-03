@@ -1,0 +1,31 @@
+Create a list of currencies and name it 'Currencies'
+Currencies = [
+    "United States Dollar",
+    "Euro",
+    "Japanese Yen",
+    "British Pound Sterling",
+    "Indian Rupee",
+    "Chinese Yuan",
+    "Canadian Dollar",
+    "Australian Dollar",
+    "Swiss Franc",
+    "Russian Ruble"
+]
+Use Random module's 'random.choice()' method and pick a random Currency
+Next, get a Currency from the User
+Check if they are same
+if same
+    WIN
+    BREAK
+if not same
+    ASK AGAIN WITHOUT CHANGING THE CURRENCY
+    Note: Only 10 chances allowed
+if 10 chances over
+    SAY YOU LOST
+    AND DON'T GIVE ANOTHER CHANCE
+if WIN
+    ASK Do you want to play again
+    if Y == ANS
+        loop again
+    if N == ANS
+        EXIT
