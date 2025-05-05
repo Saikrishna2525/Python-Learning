@@ -1,3 +1,3 @@
-import Calc
-import Calc.Thetas
-Calc.Thetas.costheta(89)
+from Calc import Thetas
+
+print(Thetas.costheta(89))

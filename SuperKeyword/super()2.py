@@ -7,6 +7,7 @@ class A():
 class B(A):
     def __init__(self, name, date_modified):
         super().__init__(name, date_modified)
-class C(A, B):
+class C(B):
     def __init__(self, name, date_modified):
         super().__init__(name, date_modified)
+obj = C("Name", "Date")
