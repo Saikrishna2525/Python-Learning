@@ -28,12 +28,25 @@ def game():
             good_status = False     
         else:
             return UserChoice            
-is_exit = "n"
-while True:
-    for _ in range(10):
+is_exit = False
+status = "Wrng"
+while not is_exit:
+    BotChoice = choice(Currencies)
+    for i in range(10):
         if game() == BotChoice:
             system(clear())
             print("You Win!")
-            
-
+            status = "Crct"
+            break
+        else:
+            print("Wrong!")      
+            status = "Wrng"
+    if status == "Crct":
+        playAgain = input("Do you want to play again? (Y/n): ").lower().strip()
+        if playAgain == "n":
+            print("Goodbye!")
+            exit()   
+    if status == "Wrng":
+            print("Sorry You Lost Please Try Again!")
+            exit()
  
