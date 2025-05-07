@@ -4,7 +4,6 @@ from os import system, name
 
 clear = lambda name=name: "cls" if name == 'nt' else "clear"
 system(clear())
-BotChoice = choice(Currencies)
 def game():
     system(clear())
     good_status = True

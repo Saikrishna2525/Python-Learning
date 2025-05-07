@@ -1,2 +1,5 @@
-venv/
-env/
+# Virtual environments
+/MongoDB/.venv/
+
+/MongoDB/.env
+
