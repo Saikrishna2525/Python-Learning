@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "681b351cb1cb3a3d7e47b7de"
+  },
+  "username": "admin",
+  "password": "admin123",
+  "OTP": "140JWN",
+  "isAdmin": true
+},
+{
+  "_id": {
+    "$oid": "681dfdc22e41851002b0eb4d"
+  },
+  "username": "SaiKrishna2525",
+  "password": "1234567890",
+  "OTP": "893OFS",
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "6821d2583f4e14d616e1c6a1"
+  },
+  "username": "Mageshwaran",
+  "password": "Mageshwaran",
+  "OTP": "665QYI",
+  "isAdmin": false
+}]

@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "681c91d54d3f97542c7987e5"
+  },
+  "name": "John Doe",
+  "standard": "6th",
+  "rank": 1,
+  "portfolio": "Math Genius",
+  "gmail_address": "john.doe@example.com"
+},
+{
+  "_id": {
+    "$oid": "681c91d54d3f97542c7987e6"
+  },
+  "name": "Jane Smith",
+  "standard": "6th",
+  "rank": 2,
+  "portfolio": "Science Enthusiast",
+  "gmail_address": "jane.smith@example.com"
+},
+{
+  "_id": {
+    "$oid": "681c91d54d3f97542c7987e7"
+  },
+  "name": "Devansh Kumar",
+  "standard": "7th",
+  "rank": 3,
+  "portfolio": "Robotics Expert",
+  "gmail_address": "devansh.kumar@example.com"
+},
+{
+  "_id": {
+    "$oid": "681c91d54d3f97542c7987e8"
+  },
+  "name": "Ava Williams",
+  "standard": "5th",
+  "rank": 4,
+  "portfolio": "Artistic Talent",
+  "gmail_address": "ava.williams@example.com"
+},
+{
+  "_id": {
+    "$oid": "681e01a72115440f40ba7d28"
+  },
+  "name": "Sarvesh",
+  "standard": "6th",
+  "rank": "Unranked",
+  "portofolio": null,
+  "gmail_address": "sai123@fake.com"
+},
+{
+  "_id": {
+    "$oid": "681e2062219ceb7e6957bd30"
+  },
+  "name": "Sarvesh",
+  "standard": "6th",
+  "rank": "Unranked",
+  "portofolio": null,
+  "gmail_address": "sai@fake.com"
+}]

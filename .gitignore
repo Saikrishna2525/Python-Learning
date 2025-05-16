@@ -1,5 +1,5 @@
 # Virtual environments
 /MongoDB/.venv/
 
-/MongoDB/.env
+/MongoDB/Login/.env
 
